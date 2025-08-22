@@ -1,1 +1,1 @@
-# universityphysicspdfviewer
+This website was made to aid my self-study. I don't exactly know how to make a table of contents for an entire PDF, so this website partitions the textbook up into chapters for easier navigation for me. 
